@@ -21,7 +21,7 @@ const TechCard: FC<TechCardProps> = ({ title, classaName, tech }) => {
             key={i}
             className={cn(
               "rounded-md bg-body text-xs text-primary p-2",
-
+              item === "Tailwind" && "border border-blue-500/60",
               item === "Javascript" && "border border-yellow-500/60",
               item === "React Js" && "border border-blue-500/60",
               item === "Next Js 13" && "border border-black/60",
