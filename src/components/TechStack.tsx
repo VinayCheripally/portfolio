@@ -18,7 +18,15 @@ const TechStack: FC<TechStackProps> = ({}) => {
         <TechCard
           title="Backend"
           classaName="bg-[#f37c36]"
-          tech={["Node Js", "Express Js", "Flask", "Spring Boot"]}
+          tech={[
+            "Node Js",
+            "Express Js",
+            "Flask",
+            "Spring Boot",
+            "Django",
+            "FastAPI",
+            "ApacheSpark",
+          ]}
         />
         <TechCard
           title="Database"
@@ -28,7 +36,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
         <TechCard
           title="Devops"
           classaName="bg-[#10c0a2]"
-          tech={["Docker", "GIT"]}
+          tech={["Docker", "GIT", "Kubernetes"]}
         />
         <TechCard
           title="Python Frameworks"
