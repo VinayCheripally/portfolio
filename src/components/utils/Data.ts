@@ -38,11 +38,10 @@ export const projectCard: IProjectSectionCardData[] = [
   },
   {
     id: 2,
-    title: "Spotify Clone",
-    techStack:
-      "Next.js 13, React Hook Form, Zustand, Radix UI, Typescript, Tailwind CSS",
-    imageUrl: "spotify-clone.gif",
-    href: "https://github.com/nwaliaez/spotify-clone",
+    title: "Ecommerce Backend",
+    techStack: "NodeJs ,Mongoose, Express, MongoDB, Swagger",
+    imageUrl: "ecommerce.jpeg",
+    href: "https://github.com/VinayCheripally/EcommerceBackend",
   },
   {
     id: 3,
