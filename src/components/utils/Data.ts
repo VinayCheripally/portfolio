@@ -32,7 +32,7 @@ export const projectCard: IProjectSectionCardData[] = [
   {
     id: 1,
     title: "Essay Evaluator",
-    techStack: "Django, OpenAI, PostgreSql",
+    techStack: "Django, OpenAI, PostgreSql, HTML, CSS",
     imageUrl: "essayevaluator.png",
     href: "https://github.com/VinayCheripally/django",
   },
