@@ -47,14 +47,14 @@ export const projectCard: IProjectSectionCardData[] = [
     id: 3,
     title: "IMDB Analysis",
     techStack: "Python ,Pandas ,Matplotlib ,Numpy ,Seaborn",
-    imageUrl: "imdb.jpeg",
+    imageUrl: "imdb.png",
     href: "https://github.com/VinayCheripally/CVIP-datascience",
   },
   {
     id: 4,
     title: "SuperStore Analysis",
     techStack: "Python ,Pandas ,Matplotlib ,Numpy ,Seaborn",
-    imageUrl: "imdb.png",
+    imageUrl: "images.jpeg",
     href: "https://github.com/VinayCheripally/superstoreanalysis",
   },
 ];
