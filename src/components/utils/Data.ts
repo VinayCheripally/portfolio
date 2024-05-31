@@ -45,18 +45,17 @@ export const projectCard: IProjectSectionCardData[] = [
   },
   {
     id: 3,
-    title: "Amazon Clone",
-    techStack:
-      "NodeJs, Express, Mongoose, Next.js 13, Next Auth, React Hook Form, Typescript, Tailwind CSS",
-    imageUrl: "amazon-clone.jpeg",
-    href: "https://github.com/nwaliaez/eCommerce",
+    title: "IMDB Analysis",
+    techStack: "Python ,Pandas ,Matplotlib ,Numpy ,Seaborn",
+    imageUrl: "imdb.jpeg",
+    href: "https://github.com/VinayCheripally/CVIP-datascience",
   },
   {
     id: 4,
-    title: " DALL·E Clone",
-    techStack: "OpenAI, Nodejs, Express, Mongoose, ReactJS, Tailwind CSS",
-    imageUrl: "dalle-clone.webp",
-    href: "https://github.com/nwaliaez/dalleClone",
+    title: "SuperStore Analysis",
+    techStack: "Python ,Pandas ,Matplotlib ,Numpy ,Seaborn",
+    imageUrl: "imdb.png",
+    href: "https://github.com/VinayCheripally/superstoreanalysis",
   },
 ];
 
