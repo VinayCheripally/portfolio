@@ -62,17 +62,17 @@ export const projectCard: IProjectSectionCardData[] = [
 export const moreProjects = [
   {
     id: 1,
-    title: "Ez Clothing",
-    techStack: "Next.js 13, Drizzle, PostgreSql, Docker, ShadCn",
+    title: "SocialMedia Posts",
+    techStack: "Python ,Mongoose ,FastAPI",
     icon: "shirt",
-    href: "https://github.com/nwaliaez/ezClothing",
+    href: "https://github.com/VinayCheripally/wellfound",
   },
   {
     id: 2,
-    title: "Ethereum Lottery",
-    techStack: "Solidity, Ethers, Hardhat, Chai",
+    title: "Flood Regression",
+    techStack: "Python ,CatBoost ,Pandas ,Matplotlib",
     icon: "lottery",
-    href: "https://github.com/nwaliaez/HardhatLottery",
+    href: "https://www.kaggle.com/code/vinaycheripally/flood-regression/edit",
   },
   {
     id: 3,
