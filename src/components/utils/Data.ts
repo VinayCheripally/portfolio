@@ -62,24 +62,24 @@ export const projectCard: IProjectSectionCardData[] = [
 export const moreProjects = [
   {
     id: 1,
+    title: "Eco-tracker",
+    techStack: "React native ,Expo, Supabase",
+    icon: "lottery",
+    href: "https://github.com/VinayCheripally/Eco-tracker",
+  },
+  {
+    id: 2,
     title: "SocialMedia Posts",
     techStack: "Python ,Mongoose ,FastAPI",
     icon: "shirt",
     href: "https://github.com/VinayCheripally/wellfound",
   },
   {
-    id: 2,
-    title: "Flood Regression",
-    techStack: "Python ,CatBoost ,Pandas ,Matplotlib",
-    icon: "lottery",
-    href: "https://www.kaggle.com/code/vinaycheripally/flood-regression/edit",
-  },
-  {
     id: 3,
-    title: "File Sharing App",
-    techStack: "Node js, Express, Web Sockets, WebRTC, ReactJs",
+    title: "Minimal os",
+    techStack: "Assembly",
     icon: "share",
-    href: "https://github.com/nwaliaez/filetransfer-webrtc",
+    href: "https://github.com/VinayCheripally/MinimalOs",
   },
 
   {

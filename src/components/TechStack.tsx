@@ -26,6 +26,7 @@ const TechStack: FC<TechStackProps> = ({}) => {
             "Django",
             "FastAPI",
             "ApacheSpark",
+            "Golang",
           ]}
         />
         <TechCard
